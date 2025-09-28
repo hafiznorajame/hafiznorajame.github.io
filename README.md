@@ -1,9 +1,7 @@
-# Hello World!
+# MSc Statistics at UoLeeds
 
-# Details about me:
+# First-class degree holder in Mathematics
 
-# A final year BSc Mathematics major in Universiti Brunei Darussalam
-
-# Interest in Statistics, Operational Research, Biostatistics, Data Science, Machine Learning
+# Interest in Bayesian Statistics, Biostatistics, Data Science
 
 # Support Manchester United, sadly
