@@ -1,7 +1,7 @@
-# MSc Statistics at UoLeeds
+# Welcome to my Github page:)
 
-# First-class degree holder in Mathematics
+## MSc Statistics at UoLeeds
 
-# Interest in Bayesian Statistics, Biostatistics, Data Science
+## Interest in Bayesian Statistics, Biostatistics, Data Science
 
-# Support Manchester United, sadly
+## Support Manchester United, sadly
