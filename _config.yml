@@ -1,0 +1,17 @@
+title: Hafizuddin Norajame
+email: hafiz.norajame@gmail.com
+baseurl: "/"
+url: "https://hafiznorajame.github.io"
+
+header_pages:
+- blog.md
+
+theme: minima
+plugins:
+- jekyll-feed
+
+minima:
+date_format: "%-d %B %Y"
+
+plugins:
+- jekyll-sitemap
