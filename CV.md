@@ -6,13 +6,13 @@ permalink: /CV/
 
 ## Education
 
--   [2024-2025]{style="color:grey;"}: MSc Statistics, University of Leeds.
--   [2020-2024]{style="color:grey;"}: BSc Mathematics, Universiti Brunei Darussalam.
+-   <span style="color:blue;">2024-2025</span>: MSc Statistics, University of Leeds.
+-   <span style="color:blue;">2020-2024</span>: BSc Mathematics, Universiti Brunei Darussalam.
 
 ## Project
 
--   [2025]{style="color:grey;"}: Joint Model of Multivariate Longitudinal Data and Survival Data with Multivariate Student's t-distributed Measurement Errors.
--   [2024-2025]{style="color:grey;"}: Trends of Cancer Incidence in Children in Brunei Darussalam.
+-   <span style="color:blue;">2025</span>: Joint Model of Multivariate Longitudinal Data and Survival Data with Multivariate Student's t-distributed Measurement Errors.
+-   <span style="color:blue;">2024-2025</span>: Trends of Cancer Incidence in Children in Brunei Darussalam.
 
 ## Technical Skills
 
@@ -21,10 +21,10 @@ permalink: /CV/
 
 ## Honours and Awards
 
--   [2024]{style="color:grey;"}: **Postgraduate Degree Scholarship**, Ministry of Religious Affairs, Brunei Darussalam
--   [2024]{style="color:grey;"}:**University Silver Medal**, Universiti Brunei Darussalam
--   [2024]{style="color:grey;"}:**University Book Prize Winner for Level 4000 & 5000 in Mathematics**, Universiti Brunei Darussalam
--   [2024]{style="color:grey;"}:**Brunei Liquefied Natural Gas (BLNG) Excellence Award**, Universiti Brunei Darussalam
--   [2022]{style="color:grey;"}:**Vice-Chancellor's List for Semester 1, session 21/22**, Universiti Brunei Darussalam
--   [2022]{style="color:grey;"}:**University Book Prize Winner for Level 2000 & 3000 in Mathematics**, Universiti Brunei Darussalam
--   [2020]{style="color:grey;"}:**Undergraduate Degree Scholarship**, Ministry of Religious Affairs, Brunei Darussalam
+-   <span style="color:blue;">2024</span>: **Postgraduate Degree Scholarship**, Ministry of Religious Affairs, Brunei Darussalam
+-   <span style="color:blue;">2024</span>:**University Silver Medal**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2024</span>:**University Book Prize Winner for Level 4000 & 5000 in Mathematics**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2024</span>:**Brunei Liquefied Natural Gas (BLNG) Excellence Award**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2022</span>:**Vice-Chancellor's List for Semester 1, session 21/22**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2022</span>:**University Book Prize Winner for Level 2000 & 3000 in Mathematics**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2020</span>:**Undergraduate Degree Scholarship**, Ministry of Religious Affairs, Brunei Darussalam
