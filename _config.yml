@@ -5,6 +5,7 @@ url: "https://hafiznorajame.github.io"
 
 header_pages:
 - blog.md
+- CV.md
 
 theme: minima
 plugins:
