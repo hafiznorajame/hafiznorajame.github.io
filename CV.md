@@ -22,9 +22,9 @@ permalink: /CV/
 ## Honours and Awards
 
 -   <span style="color:blue;">2024</span>: **Postgraduate Degree Scholarship**, Ministry of Religious Affairs, Brunei Darussalam
--   <span style="color:blue;">2024</span>:**University Silver Medal**, Universiti Brunei Darussalam
--   <span style="color:blue;">2024</span>:**University Book Prize Winner for Level 4000 & 5000 in Mathematics**, Universiti Brunei Darussalam
--   <span style="color:blue;">2024</span>:**Brunei Liquefied Natural Gas (BLNG) Excellence Award**, Universiti Brunei Darussalam
--   <span style="color:blue;">2022</span>:**Vice-Chancellor's List for Semester 1, session 21/22**, Universiti Brunei Darussalam
--   <span style="color:blue;">2022</span>:**University Book Prize Winner for Level 2000 & 3000 in Mathematics**, Universiti Brunei Darussalam
--   <span style="color:blue;">2020</span>:**Undergraduate Degree Scholarship**, Ministry of Religious Affairs, Brunei Darussalam
+-   <span style="color:blue;">2024</span>: **University Silver Medal**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2024</span>: **University Book Prize Winner for Level 4000 & 5000 in Mathematics**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2024</span>: **Brunei Liquefied Natural Gas (BLNG) Excellence Award**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2022</span>: **Vice-Chancellor's List for Semester 1, session 21/22**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2022</span>: **University Book Prize Winner for Level 2000 & 3000 in Mathematics**, Universiti Brunei Darussalam
+-   <span style="color:blue;">2020</span>: **Undergraduate Degree Scholarship**, Ministry of Religious Affairs, Brunei Darussalam
