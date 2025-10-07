@@ -1,0 +1,84 @@
+---
+---
+
+@import "minima";
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
+
+.post-link {
+  display: block;
+  font-size:18px;
+}
+
+blockquote {
+  color: #606060;
+  border-left: 4px solid #e8e8e8;
+  padding-left: 15px;
+  font-size: 16px;
+  font-style:normal;
+  letter-spacing: 0;
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: #{$ratio}rem;
+}
+
+.post-content h2 {
+   @include relative-font-size(1.65);
+
+    @media screen and (min-width: $on-large) {
+    @include relative-font-size(1.6);
+  }
+}
+
+.post-content h3 {
+  @include relative-font-size(1.3);
+
+  @media screen and (min-width: $on-large) {
+    @include relative-font-size(1.25);
+  }
+}
+
+.post-list > li {
+    margin-bottom: 20px;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2)); 
+  width:         calc(30% - (#{$spacing-unit} / 2)); 
+}
+
+.footer-col-2 {
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2)); 
+  width:         calc(40% - (#{$spacing-unit} / 2)); 
+}
+
+@include media-query($on-laptop) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+
+  .footer-col-3 {
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
+
+@include media-query($on-palm) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
