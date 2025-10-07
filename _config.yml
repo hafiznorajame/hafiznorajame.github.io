@@ -11,6 +11,8 @@ theme: minima
 plugins:
 - jekyll-feed
 
+permalink: /blog/:title:output_ext
+
 minima:
 date_format: "%-d %B %Y"
 
