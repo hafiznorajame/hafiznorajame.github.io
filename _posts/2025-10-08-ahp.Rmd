@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Analytical Hierarchy Process (AHP) and how I use it to select my dissertation topic for my MSc Statistics"
+title: "Analytical Hierarchy Process (AHP)"
 date: 2025-10-08
 categories: maths
 permalink: /blog/ahp.html
-use_math: true
+output:
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
 ---
 
 ```{r setup, include=FALSE}
