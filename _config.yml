@@ -10,7 +10,7 @@ header_pages:
  - blog.md
  - CV.md
 
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
