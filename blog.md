@@ -4,6 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-Gonna write some blog here.
+I plan write some posts related to statistics, maths, or anything here. So do check out if you are interested in reading it:)
 
-FYI, you can check my old blog from [here](https://akupayau.blogspot.com/)
+Also, you can check my old posts from [here](https://akupayau.blogspot.com/).
