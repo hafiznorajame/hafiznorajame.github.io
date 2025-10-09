@@ -5,6 +5,8 @@ description: >-
  Statistics enthuasiast
 baseurl: "/"
 url: "https://hafiznorajame.github.io"
+github_username: hafiznorajame
+linkedin_username: Hafiz Norajame
 
 header_pages:
  - blog.md
