@@ -6,7 +6,7 @@ description: >-
 baseurl: "/"
 url: "https://hafiznorajame.github.io"
 github_username: hafiznorajame
-linkedin_username: Hafiz Norajame
+linkedin_username: hafiz-norajame
 
 header_pages:
  - blog.md
