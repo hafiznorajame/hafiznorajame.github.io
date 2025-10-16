@@ -4,6 +4,8 @@ title: CV
 permalink: /CV/
 ---
 
+[View my full CV (PDF)](/Hafizuddin_CV.pdf)
+
 ## Education
 
 -   <span style="color:blue;">2024-2025</span>: **MSc Statistics**, _University of Leeds_.
