@@ -9,6 +9,7 @@ linkedin_username: hafiz-norajame
 
 header_pages:
  - blog.md
+ - projects.md
  - CV.md
 
 theme: minima
