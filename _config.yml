@@ -24,3 +24,5 @@ minima:
 
 plugins:
   - jekyll-sitemap
+
+use_math: true
