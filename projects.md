@@ -4,6 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-Here is a collection of my personal (unofficial) project in statistics.
+Here is a collection of my personal project in statistics.
 
-### SOON
