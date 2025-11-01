@@ -11,6 +11,11 @@ permalink: /CV/
 -   <span style="color:blue;">2024-2025</span>: **MSc Statistics**, _University of Leeds_.
 -   <span style="color:blue;">2020-2024</span>: **BSc Mathematics (First-Class Honours)**, _Universiti Brunei Darussalam_.
 
+## Employment
+
+- <span style="color:blue;">Nov 2025-_present_</span>: **Biostatistician**, _Borneo Futures Sdn Bhd_.
+
+
 ## Project
 
 -   <span style="color:blue;">2025</span>: Joint Model of Multivariate Longitudinal Data and Survival Data with Multivariate Student's t-distributed Measurement Errors.
