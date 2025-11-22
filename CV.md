@@ -8,7 +8,7 @@ permalink: /CV/
 
 ## Education
 
--   <span style="color:blue;">2024-2025</span>: **MSc Statistics**, _University of Leeds_.
+-   <span style="color:blue;">2024-2025</span>: **MSc Statistics (Distinction)**, _University of Leeds_.
 -   <span style="color:blue;">2020-2024</span>: **BSc Mathematics (First-Class Honours)**, _Universiti Brunei Darussalam_.
 
 ## Employment
